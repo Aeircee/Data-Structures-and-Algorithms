@@ -3,12 +3,9 @@ public:
     int guessNumber(int n) {
         int l = 1;
         int r = n;
-
         while(l<=r){
             int guess_no = l + (r-l)/2;
-
             int val = guess(guess_no);
-
             if(val ==0){
                 // we found the pick
                 return guess_no;
