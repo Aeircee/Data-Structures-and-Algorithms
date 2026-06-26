@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1539-kth-missing-positive-number) |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0374-guess-number-higher-or-lower) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
