@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0016-3sum-closest) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1539-kth-missing-positive-number) |
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
