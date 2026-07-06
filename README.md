@@ -13,6 +13,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1288-remove-covered-intervals) |
 | [1539-kth-missing-positive-number](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1539-kth-missing-positive-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Enumeration
 |  |
