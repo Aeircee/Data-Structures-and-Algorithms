@@ -19,6 +19,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/2187-minimum-time-to-complete-trips) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
@@ -29,11 +30,13 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1539-kth-missing-positive-number) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/2187-minimum-time-to-complete-trips) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -101,4 +104,12 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
