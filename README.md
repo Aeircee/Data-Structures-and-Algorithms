@@ -18,6 +18,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1539-kth-missing-positive-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/2187-minimum-time-to-complete-trips) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0066-plus-one) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sliding Window
 |  |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
