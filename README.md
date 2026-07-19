@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Trie
@@ -99,6 +100,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Math
 |  |
@@ -122,4 +124,12 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
