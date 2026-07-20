@@ -13,6 +13,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
+| [1260-shift-2d-grid](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1539-kth-missing-positive-number) |
@@ -132,4 +133,12 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
