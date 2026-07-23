@@ -22,6 +22,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/2187-minimum-time-to-complete-trips) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -108,6 +109,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0066-plus-one) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sliding Window
 |  |
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1260-shift-2d-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
