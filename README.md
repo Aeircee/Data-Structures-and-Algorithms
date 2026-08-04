@@ -26,6 +26,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -98,6 +100,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3731-find-missing-elements](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
