@@ -130,6 +130,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [3310-remove-methods-from-project](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Number Theory
 |  |
@@ -159,4 +160,12 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
