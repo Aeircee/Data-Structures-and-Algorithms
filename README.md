@@ -106,6 +106,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [0066-plus-one](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sliding Window
