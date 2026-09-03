@@ -31,6 +31,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
