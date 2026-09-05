@@ -32,6 +32,7 @@
 | [3731-find-missing-elements](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3904-smallest-stable-index-ii) |
 ## Interactive
 |  |
 | ------- |
