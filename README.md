@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
+| [0940-distinct-subsequences-ii](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -199,5 +200,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/0940-distinct-subsequences-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aeircee/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
